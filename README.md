@@ -8,8 +8,8 @@ Melee. La ISO limpia original nunca se modifica.
 
 ## Descargar
 
-- [Instalador para Windows](https://github.com/DplNegan/Melee-ISO-Builder-Releases/releases/download/v1.1.2/Melee-ISO-Builder-Setup-1.1.2.exe)
-- [Versión portable](https://github.com/DplNegan/Melee-ISO-Builder-Releases/releases/download/v1.1.2/Melee-ISO-Builder-Portable-win-x64-1.1.2.zip)
+- [Instalador para Windows](https://github.com/DplNegan/Melee-ISO-Builder-Releases/releases/download/v1.1.3/Melee-ISO-Builder-Setup-1.1.3.exe)
+- [Versión portable](https://github.com/DplNegan/Melee-ISO-Builder-Releases/releases/download/v1.1.3/Melee-ISO-Builder-Portable-win-x64-1.1.3.zip)
 
 El instalador es la opción recomendada. La versión portable debe descomprimirse
 completa antes de abrir `MeleeISOBuilder.exe`.
