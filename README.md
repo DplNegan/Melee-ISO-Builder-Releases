@@ -8,8 +8,8 @@ Melee. La ISO limpia original nunca se modifica.
 
 ## Descargar
 
-- [Instalador para Windows](https://github.com/DplNegan/Melee-ISO-Builder-Releases/releases/download/v1.1.3/Melee-ISO-Builder-Setup-1.1.3.exe)
-- [Versión portable](https://github.com/DplNegan/Melee-ISO-Builder-Releases/releases/download/v1.1.3/Melee-ISO-Builder-Portable-win-x64-1.1.3.zip)
+- [Instalador para Windows](https://github.com/DplNegan/Melee-ISO-Builder-Releases/releases/download/v1.1.4/Melee-ISO-Builder-Setup-1.1.4.exe)
+- [Versión portable](https://github.com/DplNegan/Melee-ISO-Builder-Releases/releases/download/v1.1.4/Melee-ISO-Builder-Portable-win-x64-1.1.4.zip)
 
 El instalador es la opción recomendada. La versión portable debe descomprimirse
 completa antes de abrir `MeleeISOBuilder.exe`.
@@ -39,11 +39,11 @@ Estas rutas quedan guardadas. Si deseas cambiarlas después, abre **Settings**.
 1. Abre **ISO Loadouts** y selecciona una ISO terminada.
 2. Pulsa **Modify this ISO**.
 3. Agrega o reemplaza los skins y escenarios que quieras.
-4. Pulsa **Build ISO** para guardar una ISO nueva.
+4. Pulsa **Update this ISO** para conservar el mismo archivo y nombre.
 
-La ISO seleccionada se usa como base y nunca se sobrescribe. En el historial
-puedes distinguir los cambios heredados de los nuevos y ver cuáles se
-reemplazaron.
+La aplicación crea primero una ISO temporal y la valida. Solo después reemplaza
+la ISO personalizada seleccionada; si la construcción falla, el archivo anterior
+queda intacto. La ISO limpia original nunca se reemplaza.
 
 ## Requisitos
 
